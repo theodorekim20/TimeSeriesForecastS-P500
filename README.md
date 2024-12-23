@@ -1,1 +1,1 @@
-# TimeSeriesForecastS-P500
+# TimeSeriesForecastS&P500
